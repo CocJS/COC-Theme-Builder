@@ -7,14 +7,15 @@
 </p>
 
 **Get Started**
+
 Clone this repo and use the variables file so COC will build you many helpers based on your custom variables
 
-Schema classes for backgrounds
-Schema classes for text
-Schema classes for borders
-Borders classes
-Margin classes
-Padding classes
+ - Schema classes for backgrounds
+ - Schema classes for text
+ - Schema classes for borders
+ - Borders classes
+ - Margin classes
+ - Padding classes
 
 ## Other Resources
 
