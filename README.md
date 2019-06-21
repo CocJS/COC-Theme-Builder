@@ -35,7 +35,7 @@ Clone this repo and use the variables file so COC will build you many helpers ba
 In `/sass/themes/master/variables.scss` you will find the following schema
 
 ```
-    // Main Theme
+// Main Theme
 $colors-list: (
 // Primary
 "primary": #2a0d45,
