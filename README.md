@@ -33,8 +33,8 @@ Clone this repo and use the variables file so COC will build you many helpers ba
 ## Quick Customization
 
 In `/sass/themes/master/variables.scss` you will find the following schema
-‘’’
 
+```
     // Main Theme
 $colors-list: (
 // Primary
@@ -143,5 +143,6 @@ $z-dimension: (
 @function shade($color, $percentage) {
   @return mix(black, $color, $percentage);
 }
-‘’’
+```
+
 Add your custom variables and compile the main sass file in your project, and you have your own custom theme!
